@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Potion()
+comment1.params=
+comment1.target=boolean\ noFound()
+comment2.params=
+comment2.target=void\ found()
+comment3.params=
+comment3.target=int\ getX()
+comment4.params=
+comment4.target=int\ getY()
+numComments=5
